@@ -1,0 +1,51 @@
+
+body{
+    background-color: #305050;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 0 24px;
+}
+
+.texto-um{
+    color: #000000;
+    font-size: 24px;
+}
+
+.texto-dois{
+    color: #000000;
+    font-size: 20px;
+}
+
+.paragrafo{
+    font-size: 20px;
+    color: #fffefe;
+}
+
+.rodape2{
+    color: #000000;
+}
+
+.sub-título{
+    text-align: center;
+    display: grid;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.imagem{
+    width: 20%;
+    text-align: center;
+   
+}
+
+.imagem-2{
+    width: 20%;
+    text-align: center;
+    color: #000000;
+}
+
+.linha{
+    border-bottom: 1px solid #999999;
+    border-top: 1px solid #999999;
+}
